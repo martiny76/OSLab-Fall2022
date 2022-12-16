@@ -28,7 +28,7 @@ Strace traces system calls and signals. In the simplest case Strace runs the spe
 
  The rm command removes references to objects from the filesystem using the ****unlink**** system call
 
-<img title="" src="https://imgur.com/a/Vf6VLwd" alt="1.png" data-align="center">
+<img title="" src="https://i.imgur.com/gaN7MFA.png" alt="1.png" data-align="center">
 
 ## 8-
 
@@ -42,7 +42,7 @@ Yes
 
 The file is empty but after adding some text and saving it the oslabfile3.txt file will get created again.
 
-<img src="https://imgur.com/a/A9RwWnX" title="" alt="1.png" data-align="center">
+<img src="https://i.imgur.com/ee6CpEr.png" title="" alt="1.png" data-align="center">
 
 ## 11-
 
