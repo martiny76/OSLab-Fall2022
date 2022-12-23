@@ -10,11 +10,11 @@ Yes
 
 ## 3-
 
-its identical
+They're identical
 
 ## 4-
 
-Yes, its identical
+Yes, They're identical
 
 ## 5-
 
@@ -32,7 +32,7 @@ Strace traces system calls and signals. In the simplest case Strace runs the spe
 
 ## 8-
 
-It is unique
+The inode value is unique to each file
 
 ## 9-
 
